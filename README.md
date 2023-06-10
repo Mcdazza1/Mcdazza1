@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mcdazza1
+- 👀 I’m interested in Expaning my knowledge.
+- 🌱 I’m currently learning MongoDB and Python.
